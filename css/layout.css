@@ -38,6 +38,35 @@ FLEXBOX
     align-items: center;
 }
 
+.flex-row{
+  display: flex;
+  flex-direction: row;
+}
+
+.flex-column{
+  display: flex;
+  flex-direction: column;
+}
+
+.flex-justify-center{
+  display: flex;
+  justify: center;
+  align-items: center;
+}
+
+.flex-justify-space{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.border-1px{
+  border:solid 1px black;
+}
+
+.margin{
+  margin: 20px;
+}
+
 
   /* slett meg */
 
