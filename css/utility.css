@@ -1,0 +1,11 @@
+/* base html tags */
+
+body{
+    margin: 0px;
+}
+.li
+.ul
+.ol{
+    list-style: none;
+    padding-left: 0;
+}
