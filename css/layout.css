@@ -24,6 +24,12 @@
  justify-content: center;
  }
 
+.flex-item-align-self-start{
+align-self: flex-start;
+}
+.flex-item-align-self-end{
+align-self: flex-end;
+}
 
   /*navbar*/
  .navbar{
