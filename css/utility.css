@@ -1,18 +1,35 @@
-/* base html tags */
+ /* base html tags */
 
-body{
-    margin: 0px;
-}
-.li
-.ul
-.ol{
-    list-style: none;
-    padding-left: 0;
-}
+ body{
+ margin: 0px;
+ }
+ .li
+ .ul
+ .ol{
+ list-style: none;
+ padding-left: 0;
+ }
 
-a{
-    color: blue;
-    text-decoration: none;
-    cursor: pointer;
-    outline: 0;
-}
+ a{
+ color: blue;
+ text-decoration: none;
+ cursor: pointer;
+ outline: 0;
+ }
+
+ .size-4{
+ height: 4em;
+ width: 4em;
+ }
+
+ a:visited{
+ text-decoration: none;
+    
+ }
+ a:hover{
+ text-decoration: none;
+ color: #0088ce;
+ }
+ .bordered{
+ border: solid 1px black;
+ }
