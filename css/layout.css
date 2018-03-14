@@ -19,6 +19,15 @@ FLEXBOX
 
   }
 
+  .flex-box-login{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: rgb(197, 243, 239);
+    margin: 40px;
+
+  }
+
 .navbar{
   height: 50px;
   border: solid 1px black;
@@ -34,7 +43,7 @@ FLEXBOX
 
   .flex-center{
     display: flex;
-    color: rgba(50, 150, 10, 0.719);
+    color: rgb(0, 0, 0);
     align-items: center;
 }
 
