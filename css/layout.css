@@ -31,6 +31,7 @@ align-self: flex-start;
 align-self: flex-end;
 }
 
+
   /*navbar*/
  .navbar{
   height: 50px;
@@ -68,7 +69,7 @@ align-self: flex-end;
 
  .grid-layout-default{
   display: grid;
-  grid-template-columns: 1 / 2;
+  grid-template-columns: 1fr;
   grid-template-rows: 5% 1fr 5%;
   height: 100%;
  }
@@ -129,6 +130,7 @@ align-self: flex-end;
  .flex-column{
   display: flex;
   flex-direction: column;
+  height:100vh;
  }
  .flex-justify-center{
   display: flex;
